@@ -5,7 +5,7 @@
 ## 📚 Descrição
 Este projeto apresenta um eBook que explora os riscos emergentes associados às IAs generativas. Nele, abordamos como essas tecnologias estão mudando a linha entre realidade e ficção, além de oferecer ferramentas práticas para navegar nesse cenário de forma segura.
 
-**Acesse o eBook completo aqui:** https://github.com/LuizF08/lab-natty-or-not/blob/8056bb05e07a8912d7a70240598d8bc34aad4dbb/Riscos-das-IAs-Generativas-Um-Guia-para-a-Era-da-Desinformacao.pdf
+**Acesse o eBook completo aqui:** [https://github.com/LuizF08/lab-natty-or-not/blob/8056bb05e07a8912d7a70240598d8bc34aad4dbb/Riscos-das-IAs-Generativas-Um-Guia-para-a-Era-da-Desinformacao.pdf]
 
 
 ## 🧐 Tecnologias Utilizadas
